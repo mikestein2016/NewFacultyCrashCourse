@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.12.24693.0%0D%0A%0D%0A00:00:00.000%20--%3E%2000:00:00.720%0D%0ACorrect!%0D%0A%0D%0A00:00:00.721%20--%3E%2000:00:03.585%0D%0AAll%20of%20these%20are%20great%20examples%20of%20UDL.%0D%0A%0D%0A"}')
